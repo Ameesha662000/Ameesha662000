@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **MERN Stack, Firebase, and Cloudinary**
 
-- 📫 Reach me at **ameeshashukla06062000@gmail.com**
+- 📫 Reach me at **ameesha899@gmail.com**
 
 - ⚡ Fun fact: *I'm a coder by day, artist by heart 🎨✨*
 
@@ -28,9 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ameesha06062000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameesha" height="30" width="40" /></a>
-<a href="https://instagram.com/ameesha_sketches" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameesha_sketches" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ameesha06062000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ameesha06062000" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ameesha-shukla-5366361ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameesha" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/AmeeshaShukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ameesha06062000" height="30" width="40" /></a>
 </p>
 
 ---
@@ -54,4 +54,3 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ameesha06062000&" alt="Ameesha06062000" /></p>
